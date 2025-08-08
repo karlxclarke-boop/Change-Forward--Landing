@@ -1,6 +1,0 @@
-git clone https://github.com/yourusername/changeforward-landing.git
-cd changeforward-landing
-unzip changeforward_vercel_project.zip -d .
-git add .
-git commit -m "Initial Vercel-ready launch"
-git push origin main
